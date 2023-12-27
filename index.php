@@ -10,10 +10,6 @@
 
   <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/carousel-rtl/">
 
-    
-
-    
-
 <link href="bootstrap.rtl.min.css" rel="stylesheet">
 
     <style>
