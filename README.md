@@ -1,3 +1,3 @@
 # jennysDoubles
 The Entire Jenny's Doubles Web Site with fully functional PHP Mailer
-This contains multiple copies of Vendor and PHP Mailer and autoload.php because I simply was not sure enough where in the folder structure to include them.  So I just included them everywhere, and the emails successfully reach into my gmail inbox.
+This code includes the 2nd APP Password, as the 1st APP Password somehow reset and dissappeared.  Many triggers could have offset this, such as a sign in from any one of my multiple unknown devices from google.
